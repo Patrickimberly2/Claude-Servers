@@ -1,0 +1,23 @@
+LeadPulse MVP Lo-fi Wireframe
+
++-----------------------------+   +-----------------------------+
+| Landing (/)                 |   | Login / Signup              |
+| LeadPulse                   |   | Email                       |
+| Instant lead follow-up      |   | Password                    |
+| [Login] [Sign up]           |   | [Submit]                    |
++-----------------------------+   | Company (signup only)       |
+                                  +-----------------------------+
+
++-----------------------------+   +-----------------------------+
+| Dashboard (/dashboard)      |   | Leads (/leads)              |
+| Cards: leads | revenue      |   | Add Lead form               |
+| Later: response | sent msgs |   | Leads table                 |
+| Recent activity (later)     |   | Status quick update         |
++-----------------------------+   +-----------------------------+
+
++---------------------------------------------------------------+
+| Settings (/settings)                                           |
+| Inbound token (copy/rotate)                                    |
+| Follow-up templates list                                       |
+| Messaging config (Twilio/Resend status)                        |
++---------------------------------------------------------------+
